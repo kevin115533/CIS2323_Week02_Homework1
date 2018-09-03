@@ -1,9 +1,12 @@
+import java.util.Scanner;
 
 public class MadLib {
 	public static void main(String[] args) {
 		
 		int fNum, sNum, tNum, foNum;
-		string word1;
+		String word1, word2, word3, word4, word5, word6;
+		float float1, float2;
+		
 		
 	}
 }
